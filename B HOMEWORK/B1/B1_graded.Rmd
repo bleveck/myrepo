@@ -2,9 +2,10 @@
 title: "B1"
 author: "Emma Terreni"
 date: "2023-09-19"
-output: 
-  html_document: 
-    keep_md: true
+output:
+  pdf_document: default
+  html_document:
+    keep_md: yes
 ---
 
 ## B1 Homework
